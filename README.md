@@ -1,5 +1,5 @@
 # Ai_project
-Drygin Egor , Vasilev Gleb
+A TensorFlow-based fully connected neural network for predicting bakery product demand based on date and time of day
 # Проект: Прогноз спроса на товары пекарни с помощью нейронных сетей (TensorFlow)
 
 Ссылка на интерактивный ноутбук Google Colab:  
